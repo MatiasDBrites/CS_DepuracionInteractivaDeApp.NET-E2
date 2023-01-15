@@ -1,2 +1,3 @@
-# CS_DepuracionInteractivaDeApp.NETE2
+# CS_DepuracionInteractivaDeApp.NET-E2
+
 Ejercicio: Registro y seguimiento
