@@ -49,3 +49,4 @@ We are looking for the 5th number
 sum is 1, n1 is 1, n2 is 1
 ```
 
+[![Diagnostivos1.png](https://i.postimg.cc/3Nvn4wzH/Diagnostivos1.png)](https://postimg.cc/hQK9NKSC)
